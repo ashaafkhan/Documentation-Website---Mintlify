@@ -3,8 +3,6 @@
 **Live Demo:**  
 https://mintlify-landing-page-chi.vercel.app/
 
-**GitHub Repository:**  
-https://github.com/ashaafkhan/Documentation-Website---Mintlify
 
 ---
 
